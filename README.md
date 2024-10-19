@@ -68,4 +68,13 @@ This project is open-source. Feel free to modify and use the code as needed.
 
 ---
 
-For more information, feel free to check the code comments and structure. Happy coding!
+For more information, feel free to check the code and discuss.
+
+Aman Revankar (221IT007) 
+Anush Revankar (221AI009)
+B Sriram (231CS116) 
+R Adithya (231CS146)
+Kedar Dhule (221IT023)
+Sharayu Ghadge (221ME120)
+
+Happy coding!
